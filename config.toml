@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "fastest site on earth"
+theme = "ananke"
+[[menu.main]]
+	name = "About"
+	url = "/about"
+	weight =200
