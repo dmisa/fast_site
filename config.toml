@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "slowest site on earth"
+title = "fastest site on earth"
 theme = "ananke"
 [[menu.main]]
 	name = "About"
